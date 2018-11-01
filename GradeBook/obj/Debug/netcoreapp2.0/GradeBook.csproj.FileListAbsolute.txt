@@ -1,0 +1,11 @@
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\jfriedman\Desktop\VSTrainingProjects\CSharp-GradeBookApplication\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
