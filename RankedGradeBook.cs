@@ -20,27 +20,20 @@ namespace GradeBook.GradeBooks
                 throw new InvalidOperationException("Ranked-grading requires a minimum of 5 students to work");
             }
 
-            Students = Students.OrderByDescending(s => s.AverageGrade).ToList();
+            List<double> averageGrades = Students.OrderByDescending(s => s.AverageGrade).Select(s => s.AverageGrade).ToList();
 
-            int fifth = count / 5;
+            int index = averageGrades.FindIndex(a => a == averageGrade);
 
-            for(int j = 0; j < 4; j++)
-            {
-                for(int i = j; i < fifth * (j + 1); i++)
-                {
-                    if(Students[i].AverageGrade == averageGrade)
-                    {
-                        if(j == 0)
-                            return 'A';
-                        if(j == 1)
-                            return 'B';
-                        if(j == 2)
-                            return 'C';
-                        if(j == 3)
-                            return 'D';
-                    }
-                }
-            }
+            int increment = count / 5;
+
+            if(index < increment)
+                return 'A';
+            if(index < increment * 2)
+                return 'B';
+            if(index < increment * 3)
+                return 'C';
+            if(index < increment * 4)
+                return 'D';
 
             return 'F';
         }
